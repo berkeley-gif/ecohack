@@ -171,3 +171,5 @@ The url returns a Google Charts API JSONP object as response.
 google.visualization.Query.setResponse({'version':'0.6', 'reqId':'0', 'status':'OK', 'table': {cols:[{id:'Year',label:'Year',type:'date'},{id:'Number of Extreme Heat Days',label:'Number of Extreme Heat Days',type:'number',p:{'climnorm_avg_numdays':'4.3','extreme_heat_threshold':'91.7189984131'}}],rows:[{c:[{v:new Date(1950,0,1)},{v:10}]},........{c:[{v:new Date(2099,0,1)},{v:35}]}]}});
 ```
 ```
+
+A quick [gist](https://gist.github.com/mukhtyar/e54bf08a1ef5ffeb2933) to help you get started working with a Google Charts API JSONP object.
